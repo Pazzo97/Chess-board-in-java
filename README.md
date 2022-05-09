@@ -1,6 +1,6 @@
 # Chess board with java
 
->This project is a game of chess between player and machie. it shows how you arescoring and decide  the winner between player and machine.
+>This project is a game of chess. The game is played between player and machine and you switch turn to play between you and machine. it shows how you are scoring and the winner is the first one to score 100 points.
 
 ## Built Withhttps:
 
