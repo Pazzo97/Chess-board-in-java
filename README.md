@@ -4,8 +4,6 @@
 
 ## Built Withhttps:
 
-- Html5
-- CSS3
 - Java
 
 
